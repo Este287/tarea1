@@ -1,0 +1,16 @@
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\Hola Mundo.exe
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\Hola Mundo.deps.json
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\Hola Mundo.runtimeconfig.json
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\Hola Mundo.runtimeconfig.dev.json
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\Hola Mundo.dll
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\ref\Hola Mundo.dll
+C:\Users\TEFYTA\Pictures\Hola Mundo\bin\Debug\net5.0\Hola Mundo.pdb
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.csprojAssemblyReference.cache
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.AssemblyInfoInputs.cache
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.AssemblyInfo.cs
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.dll
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\ref\Hola Mundo.dll
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.pdb
+C:\Users\TEFYTA\Pictures\Hola Mundo\obj\Debug\net5.0\Hola Mundo.genruntimeconfig.cache

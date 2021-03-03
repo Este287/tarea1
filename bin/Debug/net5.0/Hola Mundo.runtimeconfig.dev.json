@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TEFYTA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TEFYTA\\.nuget\\packages"
+    ]
+  }
+}
